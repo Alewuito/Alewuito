@@ -68,4 +68,4 @@
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/alesuitto@gmail.com-5865F2?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tu_correo@gmail.com)
+[![Email](https://img.shields.io/badge/alesuitto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alesuitto@gmail.com)

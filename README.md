@@ -1,26 +1,20 @@
-<div align="center">
-  <h1>I'm Alejandro. Depending on who you ask, I'm Suito.</h1>
-  <i>I build decentralized logic, optimize algorithmic trading models, and disappear into the mountains when the screens get boring.</i>
-</div>
+<h1 align="center">I'm Alejandro. Depending on who you ask, I'm Suito.</h1>
 
-<br><br>
+<br>
 
-<blockquote>
-  <b>Current Status:</b> Surviving Software Engineering at the University of Malaga.
-</blockquote>
-
-<p align="justify">
-  Most of my days are spent jumping between backend architectures, Web3 development, and losing staring contests against my Windows/Ubuntu dual-boot GRUB menu. I like building things that actually work. No generic corporate buzzwords, just code.
+<p>
+  <b>Software Engineering student at UMA.</b> Focused on backend architectures, trading algorithms, and competing in fintech hackathons. I build scalable logic and systems that actually work.
 </p>
 
-<p align="justify">
-  I am actively involved in the tech space, constantly jumping into hackathons, developer events, and trading algorithm competitions. Whether I am racing against the clock in a fintech hackathon or cracking Ethereum challenges, I thrive in environments where solving complex logic problems is the only way out.
+<p>
+  Part-time mountaineer. I trade the terminal for the mountains when I go offline. Building solid architecture requires perspective, and altitude is the best way to get it.
 </p>
+
+<br>
 
 <div align="right">
   <p>
-    Right now, most of my free time goes into my part-time child: <b>Suitofocus</b>.<br>
-    <i>A productivity web app where I am pushing my full-stack and architecture limits.</i>
+    <kbd>Executing</kbd> &nbsp; Raising my part-time child: <b>Suitofocus</b>.
   </p>
 </div>
 

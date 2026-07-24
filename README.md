@@ -1,15 +1,32 @@
 <div align="center">
-  <h1>Hola, I'm Alejandro.</h1>
-  <p><i>I like writing clean code, building on the blockchain, and training AI models. When I'm offline, you can usually find me in the mountains.</i></p>
+  <h1>I'm Alejandro. Depending on who you ask, I'm Suito.</h1>
+  <i>I build decentralized logic, optimize algorithmic trading models, and disappear into the mountains when the screens get boring.</i>
 </div>
 
----
+<br><br>
 
-### About Me
+<blockquote>
+  <b>Current Status:</b> Surviving Software Engineering at the University of Malaga.
+</blockquote>
 
-I'm a Software Engineering student at the [University of Malaga](https://www.uma.es/). I enjoy solving complex logic problems, whether that means competing in an [Algorithmic Trading Hackathon](https://catedrafintech.uma.es/) or tackling [SpeedRunEthereum](https://speedrunethereum.com/) challenges. 
+<p align="justify">
+  Most of my days are spent jumping between backend architectures, Web3 development, and losing staring contests against my Windows/Ubuntu dual-boot GRUB menu. I like building things that actually work. No generic corporate buzzwords, just code.
+</p>
 
-Right now, I'm focused on building [Suitofocus](https://github.com/Alewuito/Suitofocus) and expanding my Web3 stack.
+<p align="justify">
+  I am actively involved in the tech space, constantly jumping into hackathons, developer events, and trading algorithm competitions. Whether I am racing against the clock in a fintech hackathon or cracking Ethereum challenges, I thrive in environments where solving complex logic problems is the only way out.
+</p>
+
+<div align="right">
+  <p>
+    Right now, most of my free time goes into my part-time child: <b>Suitofocus</b>.<br>
+    <i>A productivity web app where I am pushing my full-stack and architecture limits.</i>
+  </p>
+</div>
+
+<br>
+<hr>
+<br>
 
 ### Tech Stack
 

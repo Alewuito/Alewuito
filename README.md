@@ -21,8 +21,8 @@ Right now, I'm focused on building [Suitofocus](https://github.com/Alewuito/Suit
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
-[![Canton](https://img.shields.io/badge/Canton-0A0A0A?style=for-the-badge)](https://docs.daml.com/canton/)
-[![DAML](https://img.shields.io/badge/DAML-0A0A0A?style=for-the-badge)](https://daml.com/)
+[![Canton](https://img.shields.io/badge/Canton-0A0A0A?style=for-the-badge)](https://www.canton.network/)
+[![DAML](https://img.shields.io/badge/DAML-0A0A0A?style=for-the-badge)](https://www.daml.org/)
 
 **Backend & Core**
 <br>

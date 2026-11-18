@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <b>AI</b> &nbsp;·&nbsp; <b>Blockchain</b> &nbsp;·&nbsp; <b>Cybersecurity</b> &nbsp;·&nbsp; <b>Backend</b>
+  <b>AI</b> &nbsp;·&nbsp; <b>Blockchain</b> &nbsp;·&nbsp; <b>Cybersecurity</b> &nbsp;
 </p>
 
 <p align="center">

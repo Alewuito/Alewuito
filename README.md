@@ -1,71 +1,93 @@
-<h1 align="center">I'm Alejandro. Depending on who you ask, I'm Suito.</h1>
-
-<br>
-
-<p>
-  <b>Software Engineering student at UMA.</b> Focused on backend architectures, trading algorithms, and competing in fintech hackathons. I build scalable logic and systems that actually work.
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Suito: a mountain at night with a dashed trail climbing to a flag on the summit" />
 </p>
 
-<p>
-  Part-time mountaineer. I trade the terminal for the mountains when I go offline. Building solid architecture requires perspective, and altitude is the best way to get it.
+<h3 align="center">I'm Alejandro. Depending on who you ask, I'm Suito.</h3>
+
+<p align="center">
+  Software Engineering student at the University of Málaga.<br />
+  I build backends for a living and climb mountains to recover from them.
 </p>
 
-<br>
+<p align="center">
+  <a href="https://alewuito.github.io/suitoportfolio/"><b>Climb the full portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sui-to/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alesuitto@gmail.com">alesuitto@gmail.com</a>
+</p>
 
-<div align="right">
-  <p>
-    <kbd>Executing</kbd> &nbsp; Raising my part-time child: <b>Suitofocus</b>.
-  </p>
-</div>
-
-<br>
-<hr>
-<br>
-
-### Tech Stack
-
-**Data, AI & Blockchain**
-<br>
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
-[![Canton](https://img.shields.io/badge/Canton-0A0A0A?style=for-the-badge)](https://www.canton.network/)
-[![DAML](https://img.shields.io/badge/DAML-0A0A0A?style=for-the-badge)](https://www.daml.org/)
-
-**Backend & Core**
-<br>
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://dev.java/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
-
-**Frontend**
-<br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-**Platform & Tools**
-<br>
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-dcc078?style=flat-square" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Blockchain-dcc078?style=flat-square" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/Cybersecurity-dcc078?style=flat-square" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Backend-a3bb8c?style=flat-square" alt="Backend" />
+</p>
 
 ---
 
-### Contact
+## ▲ The route so far
 
-[![Email](https://img.shields.io/badge/alesuitto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alesuitto@gmail.com)
+<img src="assets/route.svg" width="100%" alt="Elevation profile: Traffic Lights Arena at base camp, SuitoFocus, AI FinOps Mercedes, GSEC Sentinel, IoBuilders Bond Platform, and Codazo at the summit" />
+
+| Camp | Altitude | Project | Field notes |
+| :-- | --: | :-- | :-- |
+| **Summit** | 3,479 m | [**Codazo**](https://github.com/Alewuito/codazo) `private · coming soon` | Elbow-rehab app with a drill sergeant who will not let you skip a rep. 56 exercises, 780+ voice clips, zero excuses. |
+| Camp IV | 2,900 m | [IoBuilders Digital Bond Platform](https://github.com/JavierStark/Project-CantonDaml-IoBuilders-UMA) | Tokenized bonds settling across three Canton nodes, in Go and Daml. Finance, but make it distributed. |
+| Camp III | 2,350 m | [GSEC Sentinel](https://github.com/Alewuito/gsec-soc-platform) `private` | Hackathon SOC platform for zero-day incidents. Go, DuckDB and 1.6 million log events before breakfast. |
+| Camp II | 1,850 m | [AI FinOps Mercedes](https://github.com/agomesc1503/AI-FinOps-Mercedes) | Asks where the cloud money went, then uses AI to find out. |
+| Camp I | 1,400 m | [SuitoFocus](https://github.com/Alewuito/SuitoFocus) | Productivity app in ~14,000 lines of vanilla JavaScript. No frameworks were harmed. |
+| Base camp | 900 m | [Traffic Lights Arena](https://github.com/arrozet/cursor-semaphore) | 4th of 17 at Cursor Build Night: AI agents tuning traffic lights in 105 minutes. Málaga traffic remains unconvinced. |
+
+## ▲ What's in the backpack
+
+**Languages**<br />
+<img src="https://img.shields.io/badge/Python-1b1815?style=flat-square&logo=python&logoColor=f0e8d6" alt="Python" />
+<img src="https://img.shields.io/badge/Go-1b1815?style=flat-square&logo=go&logoColor=f0e8d6" alt="Go" />
+<img src="https://img.shields.io/badge/TypeScript-1b1815?style=flat-square&logo=typescript&logoColor=f0e8d6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-1b1815?style=flat-square&logo=javascript&logoColor=f0e8d6" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-1b1815?style=flat-square&logo=openjdk&logoColor=f0e8d6" alt="Java" />
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-1b1815?style=flat-square&logo=cplusplus&logoColor=f0e8d6" alt="C/C++" />
+<img src="https://img.shields.io/badge/SQL-1b1815?style=flat-square&logo=postgresql&logoColor=f0e8d6" alt="SQL" />
+<img src="https://img.shields.io/badge/Solidity-1b1815?style=flat-square&logo=solidity&logoColor=f0e8d6" alt="Solidity" />
+
+**Backend, data & chains**<br />
+<img src="https://img.shields.io/badge/Spring%20Boot-1b1815?style=flat-square&logo=springboot&logoColor=f0e8d6" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Node.js-1b1815?style=flat-square&logo=nodedotjs&logoColor=f0e8d6" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-1b1815?style=flat-square&logo=postgresql&logoColor=f0e8d6" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Pandas-1b1815?style=flat-square&logo=pandas&logoColor=f0e8d6" alt="Pandas" />
+<img src="https://img.shields.io/badge/Canton%20%C2%B7%20Daml-1b1815?style=flat-square" alt="Canton and Daml" />
+<img src="https://img.shields.io/badge/React-1b1815?style=flat-square&logo=react&logoColor=f0e8d6" alt="React" />
+
+**Ropes & carabiners**<br />
+<img src="https://img.shields.io/badge/Docker-1b1815?style=flat-square&logo=docker&logoColor=f0e8d6" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-1b1815?style=flat-square&logo=githubactions&logoColor=f0e8d6" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-1b1815?style=flat-square&logo=cloudflareworkers&logoColor=f0e8d6" alt="Cloudflare Workers" />
+<img src="https://img.shields.io/badge/Linux-1b1815?style=flat-square&logo=linux&logoColor=f0e8d6" alt="Linux" />
+<img src="https://img.shields.io/badge/Prometheus-1b1815?style=flat-square&logo=prometheus&logoColor=f0e8d6" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Grafana-1b1815?style=flat-square&logo=grafana&logoColor=f0e8d6" alt="Grafana" />
+<img src="https://img.shields.io/badge/Playwright-1b1815?style=flat-square&logo=playwright&logoColor=f0e8d6" alt="Playwright" />
+
+## ▲ Mountain weather report
+
+```text
+Location ........ Málaga, Spain (sea level, sadly)
+Forecast ........ 90% chance of commits, scattered merge conflicts after lunch
+Wind ............ strong gusts of "it works on my machine"
+Visibility ...... excellent, unless the README is the only documentation
+Oxygen .......... running on coffee
+Next summit ..... Codazo goes public
+```
+
+## ▲ Trail rules
+
+1. Leave no trace. `git blame` will find you anyway.
+2. Never deploy on a Friday, never descend in the dark.
+3. If it compiles on the first try, check the weather.
+4. Reaching the summit is optional. Getting back down is mandatory.
+
+---
+
+<p align="center">
+  <sub>Summit altitude borrowed from Mulhacén (3,479 m), the highest peak in mainland Spain.<br />No sherpas were harmed in the making of this README.</sub>
+</p>

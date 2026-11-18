@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <b>Neural nets</b> &nbsp;·&nbsp; <b>Merkle trees</b> &nbsp;·&nbsp; <b>Honeypots</b>
+  <b>AI</b> &nbsp;·&nbsp; <b>Blockchain</b> &nbsp;·&nbsp; <b>Cybersecurity</b> &nbsp;·&nbsp; <b>Backend</b>
 </p>
 
 <p align="center">
@@ -24,13 +24,6 @@
   <a href="https://www.linkedin.com/in/sui-to/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alesuitto@gmail.com">alesuitto@gmail.com</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-dcc078?style=flat-square" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Blockchain-dcc078?style=flat-square" alt="Blockchain" />
-  <img src="https://img.shields.io/badge/Cybersecurity-dcc078?style=flat-square" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Backend-a3bb8c?style=flat-square" alt="Backend" />
 </p>
 
 ---

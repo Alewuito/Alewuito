@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alewuito.github.io/suitoportfolio/"><b>Climb the full portfolio</b></a>
+  <a href="https://suitoport.is-a.dev"><b>Climb the full portfolio</b></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/sui-to/">LinkedIn</a>
   &nbsp;·&nbsp;

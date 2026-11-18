@@ -7,7 +7,7 @@
 <p align="center"><b>Depending on who you ask, I'm <i>Suito</i>.</b></p>
 
 <p align="center">
-  Software Engineering student at the University of Málaga.<br />
+  Software Engineering &nbsp;·&nbsp; University of Málaga<br />
   <i>Gravity is my only bug.</i>
 </p>
 

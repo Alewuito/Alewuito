@@ -11,7 +11,11 @@
 
 <p align="center">
   Software Engineering student at the University of Málaga.<br />
-  I build backends for a living and climb mountains to recover from them.
+  <i>Gravity is my only bug.</i>
+</p>
+
+<p align="center">
+  <b>Neural nets</b> &nbsp;·&nbsp; <b>Merkle trees</b> &nbsp;·&nbsp; <b>Honeypots</b>
 </p>
 
 <p align="center">

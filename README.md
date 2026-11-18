@@ -7,7 +7,7 @@
 <p align="center"><b>Depending on who you ask, I'm <i>Suito</i>.</b></p>
 
 <p align="center">
-  Software Engineering &nbsp;·&nbsp; University of Málaga<br />
+  Software Engineering @ UMA &nbsp;·&nbsp; Hackathon-tested in Go, Python &amp; Solidity<br />
   <i>Gravity is my only bug.</i>
 </p>
 

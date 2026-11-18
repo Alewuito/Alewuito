@@ -2,12 +2,9 @@
   <img src="assets/header.svg" width="100%" alt="Suito: a mountain at night with a dashed trail climbing to a flag on the summit" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg" />
-    <img src="assets/intro-light.svg" width="78%" alt="I'm Alejandro. Depending on who you ask, I'm Suito." />
-  </picture>
-</p>
+<h1 align="center">I'm Alejandro.</h1>
+
+<p align="center"><b>Depending on who you ask, I'm <i>Suito</i>.</b></p>
 
 <p align="center">
   Software Engineering student at the University of Málaga.<br />
@@ -15,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>AI</b> &nbsp;·&nbsp; <b>Blockchain</b> &nbsp;·&nbsp; <b>Cybersecurity</b> &nbsp;
+  <b>AI</b> &nbsp;·&nbsp; <b>Blockchain</b> &nbsp;·&nbsp; <b>Cybersecurity</b>
 </p>
 
 <p align="center">
